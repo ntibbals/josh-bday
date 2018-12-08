@@ -48,6 +48,13 @@ div {
 }
 @media screen and (max-width: 736px) {
   body {
+    /* color: rgba(251, 79, 20);
+    background-color: rgba( 0,34, 68);
+    text-shadow: 2px 2px 7px rgba( 0,34, 68);
+    font-family: 'Akronim', cursive;
+    font-size: 50px; */
+  }
+  main {
     color: rgba(251, 79, 20);
     background-color: rgba( 0,34, 68);
     text-shadow: 2px 2px 7px rgba( 0,34, 68);
