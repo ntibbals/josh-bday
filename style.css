@@ -106,6 +106,7 @@ div {
     text-shadow: 2px 2px 7px rgba( 0,34, 68);
     font-family: 'Akronim', cursive;
     font-size: 50px;
+    overflow: hidden;
   }
   main {
     color: rgba(251, 79, 20);
