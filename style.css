@@ -1,11 +1,11 @@
 body {
   background-image: url('./assets/confetti.gif');
-  background-color: rgba(251, 79, 20);
-  color: rgba( 0,34, 68);
+  background-color: rgb(253, 78, 19);
+  color: rgb(1, 42, 82);
   font-size: 100px;
   position: relative;
   font-family: 'Akronim', cursive;
-  text-shadow: 2px 2px 7px rgba(251, 79, 20)
+  text-shadow: 2px 2px 7px rgb(253, 78, 19);
 }
 h1 {
   padding-top: 5%;
@@ -42,18 +42,18 @@ div {
 }
 @media screen and (max-width: 736px) {
   body {
-    color: rgba(251, 79, 20);
-    background-color: rgba( 0,34, 68);
-    text-shadow: 2px 2px 7px rgba( 0,34, 68);
+    color: rgb(253, 78, 19);
+    background-color: rgb(1, 42, 82);
+    text-shadow: 2px 2px 7px rgb(1, 42, 82);
     font-family: 'Akronim', cursive;
     background-image: url('./assets/confetti.gif');
     font-size: 50px;
   }
   main {
     background-image: url('./assets/confetti.gif');
-    color: rgba(251, 79, 20);
-    background-color: rgba( 0,34, 68);
-    text-shadow: 2px 2px 7px rgba( 0,34, 68);
+    color: rgb(253, 78, 19);
+    background-color: rgb(1, 42, 82);
+    text-shadow: 2px 2px 7px rgb(1, 42, 82);
     font-family: 'Akronim', cursive;
     font-size: 50px;
   }
@@ -98,18 +98,18 @@ div {
 }
 @media screen and (max-width: 970px) {
   body {
-    color: rgba(251, 79, 20);
-    background-color: rgba( 0,34, 68);
-    text-shadow: 2px 2px 7px rgba( 0,34, 68);
+    color: rgb(253, 78, 19);
+    background-color: rgb(1, 42, 82);
+    text-shadow: 2px 2px 7px rgb(1, 42, 82);
     font-family: 'Akronim', cursive;
     background-image: url('./assets/confetti.gif');
     font-size: 50px;
     overflow: hidden;
   }
   main {
-    color: rgba(251, 79, 20);
-    background-color: rgba( 0,34, 68);
-    text-shadow: 2px 2px 7px rgba( 0,34, 68);
+    color: rgb(253, 78, 19);
+    background-color: rgb(1, 42, 82);
+    text-shadow: 2px 2px 7px rgb(1, 42, 82);
     background-image: url('./assets/confetti.gif');
     font-family: 'Akronim', cursive;
   }
