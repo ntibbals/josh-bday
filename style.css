@@ -46,13 +46,13 @@ div {
   display: block;
   width: 100%;
 }
-@media screen and (max-width: 736px) {
+/* @media screen and (max-width: 736px) {
   body {
-    /* color: rgba(251, 79, 20);
+    color: rgba(251, 79, 20);
     background-color: rgba( 0,34, 68);
     text-shadow: 2px 2px 7px rgba( 0,34, 68);
     font-family: 'Akronim', cursive;
-    font-size: 50px; */
+    font-size: 50px;
   }
   main {
     color: rgba(251, 79, 20);
@@ -74,9 +74,7 @@ div {
     width: 100%;
     background-image: url('./assets/confetti.gif');
   }
-  /* #confet {
-    background-image: url('./assets/confetti.gif');
-  } */
+
   div {
     text-align: center;
     width: 100%;
@@ -165,4 +163,4 @@ div {
     width: 100%;
   }
 
-}
+} */
