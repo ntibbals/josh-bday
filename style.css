@@ -1,5 +1,5 @@
 body {
-  /* background-image: url('./assets/confetti.gif'); */
+  background-image: url('./assets/confetti.gif');
   background-color: rgba(251, 79, 20);
   color: rgba( 0,34, 68);
   font-size: 100px;
@@ -17,7 +17,6 @@ h1 {
   padding-left: 24vw;
   padding-right: 10vw;
   width: 50vw;
-  /* background-image: url('./assets/confetti.gif'); */
 }
 div {
   text-align: center;
@@ -26,13 +25,8 @@ div {
 #carousel {
   position: relative;
   width: 50vw;
-  
-  /* height: auto; */
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4)
 }
-/* #main > #carousel {
-  width: 100%;
-} */
 #carousel > div {
   position: absolute;
   width: 100%;
@@ -52,9 +46,11 @@ div {
     background-color: rgba( 0,34, 68);
     text-shadow: 2px 2px 7px rgba( 0,34, 68);
     font-family: 'Akronim', cursive;
+    background-image: url('./assets/confetti.gif');
     font-size: 50px;
   }
   main {
+    background-image: url('./assets/confetti.gif');
     color: rgba(251, 79, 20);
     background-color: rgba( 0,34, 68);
     text-shadow: 2px 2px 7px rgba( 0,34, 68);
@@ -68,15 +64,13 @@ div {
     position: relative;
   }
   #container {
+    background-image: url('./assets/confetti.gif');
     padding-top: 6vw;
     padding-left: 0;
     padding-right: 0;
     width: 100%;
-    /* background-image: url('./assets/confetti.gif'); */
   }
-  /* #confet {
-    background-image: url('./assets/confetti.gif');
-  } */
+
   div {
     text-align: center;
     width: 100%;
@@ -84,13 +78,9 @@ div {
   #carousel {
     position: relative;
     width: 100%;
-    
-    /* height: auto; */
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4)
   }
-  /* #main > #carousel {
-    width: 100%;
-  } */
+
   #carousel > div {
     position: absolute;
     width: 100%;
@@ -112,6 +102,7 @@ div {
     background-color: rgba( 0,34, 68);
     text-shadow: 2px 2px 7px rgba( 0,34, 68);
     font-family: 'Akronim', cursive;
+    background-image: url('./assets/confetti.gif');
     font-size: 50px;
     overflow: hidden;
   }
@@ -119,6 +110,7 @@ div {
     color: rgba(251, 79, 20);
     background-color: rgba( 0,34, 68);
     text-shadow: 2px 2px 7px rgba( 0,34, 68);
+    background-image: url('./assets/confetti.gif');
     font-family: 'Akronim', cursive;
   }
   h1 {
@@ -129,14 +121,11 @@ div {
   }
   #container {
     padding-top: 6vw;
+    background-image: url('./assets/confetti.gif');
     padding-left: 0;
     padding-right: 0;
     width: 100%;
-    /* background-image: url('./assets/confetti.gif'); */
   }
-  /* #confet {
-    background-image: url('./assets/confetti.gif');
-  } */
   div {
     text-align: center;
     width: 100%;
@@ -144,13 +133,8 @@ div {
   #carousel {
     position: relative;
     width: 100%;
-    
-    /* height: auto; */
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4)
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.4)
   }
-  /* #main > #carousel {
-    width: 100%;
-  } */
   #carousel > div {
     position: absolute;
     width: 100%;
